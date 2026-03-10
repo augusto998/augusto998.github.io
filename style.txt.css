@@ -1,6 +1,8 @@
 body {background-color: whitesmoke ; }
-h1{font-size: 65px;}
+h1{font-size: 65px;
+   text-align: center;}
 p {font-size: 25px;}
 a {text-align: center;
     font-size: 28px;
     color: rgb(32, 97, 150);}
+
