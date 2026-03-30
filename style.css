@@ -6,3 +6,31 @@ a {text-align: center;
     font-size: 28px;
     color: rgb(32, 97, 150);}
 h2{text-align: center;}
+/* Tirar estilo padrão da lista */
+.lista-jogadores {
+    list-style: none;
+    padding: 0;
+}
+
+/* Espaçamento entre itens */
+.lista-jogadores li {
+    margin: 15px 0;
+}
+
+/* Estilo de botão */
+.botao {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+/* Efeito hover */
+.botao:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
