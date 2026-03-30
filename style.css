@@ -1,4 +1,4 @@
-body {background-color: whitesmoke ; }
+body {background-color: blue ; }
 h1 {text-align: center;
    font-size: 70px;}
 p {font-size: 25px;}
@@ -19,7 +19,7 @@ h2{text-align: center;}
 .botao {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #007BFF;
+    background-color: #660303;
     color: white;
     text-decoration: none;
     border-radius: 8px;
@@ -28,6 +28,6 @@ h2{text-align: center;}
 }
 
 .botao:hover {
-    background-color: #0056b3;
+    background-color: #640707;
     transform: scale(1.05);
 }
